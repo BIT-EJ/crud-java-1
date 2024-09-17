@@ -9,6 +9,6 @@ Precisa de postgresql instalado e rodando.
 
 Para configurar a conexão, edite este [arquivo](src/main/resources/application.properties)
 
-Precisa da importação deste [arquivo](src/main/resources/auth.db) de db 
+Precisa da importação deste [arquivo](src/main/resources/auth.sql) de sql
 
 Idealmente executado com o frontend junto, que pode ser localizado [aqui](https://github.com/BIT-EJ/crud-next-1)
